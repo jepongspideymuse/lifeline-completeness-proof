@@ -1,1 +1,1 @@
-# lifeline-completeness-proof
+Proof repo for the lifeline completeness check.
